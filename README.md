@@ -17,3 +17,7 @@ Réaliser une page web (espace membre) pour déposer/envoyer un document/fichier
 
 ## #100DaysOfCode
 Je fais ce projet pour m'entrainer, et aussi dans le cadre du challenge #100DaysOfCode
+
+## A faire 
+
+- dossier samples et skins : à supprimer, je devais mettre dans ckeditors en plugin.  Donc ne pas tenir compte de ses deux dossier si vous copier ou utiliser.
