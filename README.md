@@ -1,23 +1,75 @@
-# SendDocML
-Page d'envoie de fichiers/documents à son conseiller Mission Locale (comme l'envoie de documents sur Pôle Emploi)
+AdminBSB - Material Design
+=======================
+[![npm version](https://img.shields.io/npm/v/adminbsb-materialdesign.svg)](https://www.npmjs.com/package/adminbsb-materialdesign)
+![Bower version](https://img.shields.io/bower/v/adminbsb-materialdesign.svg)
 
-## Présentation
-J'ai eu l'idée de développer un petit espace pour pouvoir transmettre ses docuents d'emploi à son conseiller Mission Locale tout comme sur Pôle Emploi.
+**AdminBSB - Material Design is a fully responsive and free admin template.** It was developed with [Bootstrap 3.x Framework](http://getbootstrap.com) and [Google Material Design](https://material.google.com) of powers.
 
-### Template utilisé
-Pour réaliser ce projet, j'utilise un template de base que voici ( https://github.com/gurayyarar/AdminBSBMaterialDesign ).
-J'utilise uniquement ppour la structure.
+It's really easy to customize and usage. You can use for from 320px to large resolution pixels of new generation screens and mobile devices. (**Fully Responsive Material Design**)
 
-## Objectif 
-Réaliser une page web (espace membre) pour déposer/envoyer un document/fichier à son conseiller Mission Locale tout comme ce fait déjà sur l'espace Pôle Emploi.
+Looking for Premium Templates?
+----------------
+**If you need more features please visit portfolio of mine which page link is [https://themeforest.net/user/gurayyarar/portfolio](http://bit.ly/2oPFpmQ)**
 
-- En premier : Coder la page de transfert de fichier dropdown avec un formulaire.
-- Second projet : Développer autour de cette page un système d'espace membre pour gérer les documents envoyés et voir leurs statuts de traitement.
-- Troisième projet : Une page de contact, pour contacter directement son conseiller. 
+Demo
+----------------
+You can check the website preview with **[this link](https://gurayyarar.github.io/AdminBSBMaterialDesign/)**  
 
-## #100DaysOfCode
-Je fais ce projet pour m'entrainer, et aussi dans le cadre du challenge #100DaysOfCode
+![AdminBSB - Free Admin Template With Material Design](https://raw.githubusercontent.com/gurayyarar/AdminBSBMaterialDesign/master/images/screenshot.png)
 
-## A faire 
+Installation
+----------------
+You can choose one from multiple ways for installation.
 
-- dossier samples et skins : à supprimer, je devais mettre dans ckeditors en plugin.  Donc ne pas tenir compte de ses deux dossier si vous copier ou utiliser.
+**GitHub**
+- Fork the repository ([here is the guide](https://help.github.com/articles/fork-a-repo/)).
+- Clone to your machine
+```
+git clone https://github.com/gurayyarar/AdminBSBMaterialDesign.git
+```
+
+**npm**
+```
+npm install adminbsb-materialdesign
+```
+
+**bower**
+```
+bower install adminbsb-materialdesign
+```
+
+Documentation
+----------
+Visit the **[documentation](https://gurayyarar.github.io/AdminBSBMaterialDesign/documentation/)**
+
+Browser Support
+----------
+- IE 10 +
+- Microsoft Edge (Latest)
+- Mozilla Firefox (Latest)
+- Google Chrome (Latest)
+- Opera (Latest)
+- Safari (Latest)
+
+Change Logs
+----------
+You can display all release notes with **[this link](https://gurayyarar.github.io/AdminBSBMaterialDesign/pages/changelogs.html)**
+
+
+FAQ
+===
+**Can I use this template for personal or commercial websites/web projects?**  
+Sure, you can use both of personal and commercial websites/web projects.
+
+**Is the attribution link required?**  
+No, not required. (Though very much appreciated)
+
+License
+----------
+**AdminBSB - Material Design** is an open source project that is licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+Donations
+----------
+Donations are **greatly appreciated!**
+
+**[BUY ME A COFFEE](http://bit.ly/2yEjtx5)**
